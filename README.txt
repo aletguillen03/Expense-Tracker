@@ -21,7 +21,6 @@ Ensure Python 3.6 or higher is installed.
 For Linux users, install Tkinter if not already present, e.g., on Ubuntu:sudo apt-get install python3-tk
 
 
-
 How to Run
 
 Open a terminal or command prompt.
@@ -29,7 +28,6 @@ Navigate to the directory containing expense_tracker.py.
 Run the following command:python expense_tracker.py
 
 orpython3 expense_tracker.py
-
 
 
 Usage
@@ -42,3 +40,5 @@ Filter by Month: Select a month and year, then click "Filtrar por Mes" to view e
 Show All: Click "Mostrar Todos" to display all expenses sorted by date.
 
 Expenses are automatically saved to expenses.csv in the same directory.
+
+Github URL: https://github.com/aletguillen03/Expense-Tracker/

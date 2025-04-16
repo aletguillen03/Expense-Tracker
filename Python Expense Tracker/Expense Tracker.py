@@ -7,7 +7,7 @@ from datetime import datetime
 class ExpenseTrackerApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Rastreador de Gastos")
+        self.title("Expense Tracker")
         self.geometry("1300x600")
         self.expenses = []
         self.displayed_expenses = []
@@ -17,7 +17,7 @@ class ExpenseTrackerApp(tk.Tk):
 
     def create_widgets(self):
         # Encabezado
-        tk.Label(self, text="Rastreador de Gastos", font=("Helvetica", 20, "bold")).pack(pady=10)
+        tk.Label(self, text="Expenses", font=("Helvetica", 20, "bold")).pack(pady=10)
 
         # Marco de entrada
         input_frame = tk.Frame(self)

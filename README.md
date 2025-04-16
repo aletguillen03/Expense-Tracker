@@ -1,6 +1,6 @@
 README.md
 
-Github URL: https://github.com/aletguillen03/Expense-Tracker/
+https://github.com/aletguillen03/Expense-Tracker/
 
 Expense Tracker
 This is an expense tracker built in Python using Tkinter. It allows users to manage their expenses by creating, editing, deleting, and organizing them monthly, while tracking the total expenditure.
